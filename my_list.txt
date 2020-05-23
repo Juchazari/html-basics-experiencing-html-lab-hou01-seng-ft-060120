@@ -1,5 +1,5 @@
-<li>"Super Awesome Stuff"</li>
-<li>"Hello World!"</li>
-<li>"A Mountain"</li>
-<li>"HTML is awesome"</li>
-<li>"Flatiron School!"</li>
+"Super Awesome Stuff"
+"Hello World!"
+"A Mountain"
+"HTML is awesome"
+"Flatiron School!"
